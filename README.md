@@ -1,0 +1,2 @@
+# lemon
+基于springboot+mybatis+bootstrap+velocity的后台管理自动化生成系统，采用rabbitMQ做消息队列，shiro做权限控制，elasticsearch做搜索引擎，redis做缓存数据库；集成docker自动化部署
